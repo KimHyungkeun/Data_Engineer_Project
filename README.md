@@ -22,7 +22,7 @@
  - Movielens_Analysis와 비슷한 내용이나, HDFS에 저장된 내용을 Sqoop을 통해 Oracle로 Export 하는 내용입니다.
 
 [6. Supersets_Tutorial.pdf](https://github.com/KimHyungkeun/Data_Engineer_Project/blob/main/Supersets_Tutorial.pdf) 
-- Twitter_Sentiment_Analysis의 내용을 Supersets을 통해 시각화 해보는 내용입니다.
+- Twitter_Sentiment_Analysis의 내용을 Supersets을 통해 시각화 하는 내용입니다.
 ![Supersets](https://github.com/KimHyungkeun/Data_Engineer_Project/blob/main/Pictures/Supersets.png)   
 
 [7. Twitter_Sentiment_Analysis_PPT.pdf](https://github.com/KimHyungkeun/Data_Engineer_Project/blob/main/Twitter_Sentiment_Analysis_PPT.pdf) 
